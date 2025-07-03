@@ -1,4 +1,4 @@
-A data analysis project to **find insighs in patient healthcare costs** and identify key cost drivers using insurance claim data.
+A data analysis project to **find insights in patient healthcare costs** and identify key cost drivers using insurance claim data.
 
 ## 📌 Overview
 This project analyzes **healthcare expenditure patterns** to:
